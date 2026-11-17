@@ -1,1 +1,2 @@
 hyy(print)
+print(hloo)
